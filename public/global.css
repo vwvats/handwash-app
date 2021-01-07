@@ -1,5 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
 
 body {
-  font-family: 'Lato', sans-serif;
+  background-color: #f8f8f8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button {
+  border: none;
+  color: #f8f8f8;
+  cursor: pointer;
+  display: inline-block;
+  flex: 1;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  outline: none;
+  padding: 0.8em 1.8em;
+  text-align: center;
+  text-decoration: none;
 }
