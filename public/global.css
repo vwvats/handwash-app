@@ -18,3 +18,7 @@ button {
   text-align: center;
   text-decoration: none;
 }
+
+.sr-only {
+  display: none;
+}
